@@ -15,4 +15,4 @@ We are in the infancy stage of coding, but with additional help we can be testin
 All the help anyone can give us while we're putting the data together is greatly appreciated. Coders, developers, and scientists are all needed. Thanks. 
 
 Rio
-rio@7strings.org
+rio@6strings.org
