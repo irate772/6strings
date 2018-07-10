@@ -1,7 +1,7 @@
 # 6strings
-Guitars in the blockchain are worth more.
+Guitars in the blockchain are worth more?
 
-This is the read me file for the Business Network Definition of “The 6 String Project” (6s). 
+6 String Project (6S) is an asset tracking ledger of guitars, they're makers, sellers, buyers. 
 
 
 We track the value of guitars by many different factors. The rewards for owning these instruments are great for many different reasons. 
