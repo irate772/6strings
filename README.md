@@ -1,3 +1,11 @@
+Hello guys and gals. Today is 9/8/18. The anticipated date for 3q2018 to begin testing will be slightly delayed. The new target date is
+10/1/18 to begin testing. all future entries, updates, and repos will be at
+github.com/6stringsproject
+
+
+
+
+
 # 6strings
 Guitars in the blockchain are worth more?
 
